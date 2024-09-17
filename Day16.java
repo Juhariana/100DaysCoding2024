@@ -4,7 +4,7 @@ public class day16 {
         
         // Membuat variabel tipe data float
         
-        double variabel_float = 15.0f ;
+        fload variabel_float = 15.0f ;
         
         System.out.println("float :"+ variabel_float);
         
