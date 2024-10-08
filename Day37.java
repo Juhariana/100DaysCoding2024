@@ -1,6 +1,6 @@
 public class day37 {
 	public static void main(String[] args) {
-		System.out.println("operator penugasan:penugasan nilai , pertambahan , dan perkurangan");
+		System.out.println("operator penugasan:pengisian nilai , pertambahan , dan perkurangan");
 		byte angka ;
 		// pengisian nilai(=)
 		angka = 50;
