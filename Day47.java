@@ -1,6 +1,6 @@
 public class day47 {
     public static void main(String[] args) {
-       System.out.println("percabangan:if-else");
+       System.out.println("percabangan:if");
          int a = 50;
         int b = 50;
 
